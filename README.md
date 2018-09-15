@@ -1,2 +1,2 @@
 # vim-preparer
-Install favorite plugins with one script
+Run `vim-preparer.sh` to install my favorite plugins for vim and download my .vimrc.
